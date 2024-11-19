@@ -1,0 +1,12 @@
+.tag {
+    background: white;
+    border-radius: 8px;
+}
+
+.tag > p {
+    text-align: center;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0px 12px;
+}
